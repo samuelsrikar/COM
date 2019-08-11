@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+#user
+/.vs
+/Output
+*.tlog
+*.idb
+*.pdb
+*.log
+*.filters
+*.user
+/ManagedApp/bin
+/ManagedApp/obj
